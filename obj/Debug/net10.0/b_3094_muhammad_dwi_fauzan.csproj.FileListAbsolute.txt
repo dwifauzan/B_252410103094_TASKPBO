@@ -1,0 +1,14 @@
+/Users/patrick/Documents/pbo/b_3094_muhammad_dwi_fauzan/bin/Debug/net10.0/b_3094_muhammad_dwi_fauzan
+/Users/patrick/Documents/pbo/b_3094_muhammad_dwi_fauzan/bin/Debug/net10.0/b_3094_muhammad_dwi_fauzan.deps.json
+/Users/patrick/Documents/pbo/b_3094_muhammad_dwi_fauzan/bin/Debug/net10.0/b_3094_muhammad_dwi_fauzan.runtimeconfig.json
+/Users/patrick/Documents/pbo/b_3094_muhammad_dwi_fauzan/bin/Debug/net10.0/b_3094_muhammad_dwi_fauzan.dll
+/Users/patrick/Documents/pbo/b_3094_muhammad_dwi_fauzan/bin/Debug/net10.0/b_3094_muhammad_dwi_fauzan.pdb
+/Users/patrick/Documents/pbo/b_3094_muhammad_dwi_fauzan/obj/Debug/net10.0/b_3094_muhammad_dwi_fauzan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrick/Documents/pbo/b_3094_muhammad_dwi_fauzan/obj/Debug/net10.0/b_3094_muhammad_dwi_fauzan.AssemblyInfoInputs.cache
+/Users/patrick/Documents/pbo/b_3094_muhammad_dwi_fauzan/obj/Debug/net10.0/b_3094_muhammad_dwi_fauzan.AssemblyInfo.cs
+/Users/patrick/Documents/pbo/b_3094_muhammad_dwi_fauzan/obj/Debug/net10.0/b_3094_muhammad_dwi_fauzan.csproj.CoreCompileInputs.cache
+/Users/patrick/Documents/pbo/b_3094_muhammad_dwi_fauzan/obj/Debug/net10.0/b_3094_muhammad_dwi_fauzan.dll
+/Users/patrick/Documents/pbo/b_3094_muhammad_dwi_fauzan/obj/Debug/net10.0/refint/b_3094_muhammad_dwi_fauzan.dll
+/Users/patrick/Documents/pbo/b_3094_muhammad_dwi_fauzan/obj/Debug/net10.0/b_3094_muhammad_dwi_fauzan.pdb
+/Users/patrick/Documents/pbo/b_3094_muhammad_dwi_fauzan/obj/Debug/net10.0/b_3094_muhammad_dwi_fauzan.genruntimeconfig.cache
+/Users/patrick/Documents/pbo/b_3094_muhammad_dwi_fauzan/obj/Debug/net10.0/ref/b_3094_muhammad_dwi_fauzan.dll
